@@ -1,2 +1,6 @@
 category
+
 这是master中开发的内容
+
+hot_fix对Category进行了开发
+
